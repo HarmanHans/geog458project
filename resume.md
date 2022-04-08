@@ -15,9 +15,9 @@ Author
 
 ## Yakima Valley Community College (Yakima, WA)
 
-* [YVCC][] cool place. ** (2004-2007)
+*[YVCC][] cool place.* (2004-2007)
 
-** Student
+**Student**
 
 Was a student here.
 
@@ -27,9 +27,9 @@ Was a student here.
 - Active in Environmentalism club
 
 ## San Diego State University (Unknown Location)
-*[SDSU][] located in San Diego
+*[SDSU][] located in San Diego*
 
-** Teaching Assistant ** (2007-2008)
+**Teaching Assistant** (2007-2008)
 
 Helped grade assignments in a political science class
 
