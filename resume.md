@@ -38,7 +38,6 @@ Helped grade assignments in a political science class
 - Taught a lecture
 - Ran a presidential campaign 
 
-[YVCC]: https://www.yvcc.edu/
-[SDSU]: https://www.sdsu.edu/
-[Harverd]: https://twitter.com/vincestaples
--
+[YVCC][]: https://www.yvcc.edu/
+[SDSU][]: https://www.sdsu.edu/
+[Harverd][]: https://twitter.com/vincestaples
