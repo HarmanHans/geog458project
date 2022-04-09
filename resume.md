@@ -8,9 +8,9 @@ http://www.linkedin.com/in/obama
 # Summary
 
 I was the president once and did stuff.
-<p>
-<img scr="https://media.vanityfair.com/photos/6036a15657f37ea4415256d2/master/pass/1225292516">
-</p>
+
+![]("https://media.vanityfair.com/photos/6036a15657f37ea4415256d2/master/pass/1225292516")
+
 
 # Work Experience
 President (2008-2016)
@@ -42,6 +42,6 @@ Helped grade assignments in a political science class
 - Taught a lecture
 - Ran a presidential campaign 
 
-- <a href="https://www.yvcc.edu/">YVCC</a>
-- <a href="https://www.sdsu.edu/">SDSU</a>
-- <a href="https://twitter.com/vincestaples">Harverd</a>
+- [YVCC](https://www.yvcc.edu/)
+- [SDSU](https://www.sdsu.edu/)
+- Harverd]("https://twitter.com/vincestaples")
