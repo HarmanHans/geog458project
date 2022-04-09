@@ -8,7 +8,9 @@ http://www.linkedin.com/in/obama
 # Summary
 
 I was the president once and did stuff.
+<p>
 <img scr="https://media.vanityfair.com/photos/6036a15657f37ea4415256d2/master/pass/1225292516">
+</p>
 
 # Work Experience
 President (2008-2016)
