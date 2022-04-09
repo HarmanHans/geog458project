@@ -40,6 +40,6 @@ Helped grade assignments in a political science class
 - Taught a lecture
 - Ran a presidential campaign 
 
-- [YVCC]: https://www.yvcc.edu/
-- [SDSU]: https://www.sdsu.edu/
-- [Harverd]: https://twitter.com/vincestaples
+- <a href="https://www.yvcc.edu/">YVCC</a>
+- <a href="https://www.sdsu.edu/">SDSU</a>
+- <a href="https://twitter.com/vincestaples">Harverd</a>
