@@ -44,4 +44,4 @@ Helped grade assignments in a political science class
 
 - [YVCC](https://www.yvcc.edu/)
 - [SDSU](https://www.sdsu.edu/)
-- Harverd]("https://twitter.com/vincestaples")
+- [Harverd]("https://twitter.com/vincestaples")
