@@ -9,7 +9,7 @@ http://www.linkedin.com/in/obama
 
 I was the president once and did stuff.
 
-![]("https://media.vanityfair.com/photos/6036a15657f37ea4415256d2/master/pass/1225292516")
+![](https://media.vanityfair.com/photos/6036a15657f37ea4415256d2/master/pass/1225292516)
 
 
 # Work Experience
@@ -44,4 +44,4 @@ Helped grade assignments in a political science class
 
 - [YVCC](https://www.yvcc.edu/)
 - [SDSU](https://www.sdsu.edu/)
-- [Harverd]("https://twitter.com/vincestaples")
+- [Harverd](https://twitter.com/vincestaples)
